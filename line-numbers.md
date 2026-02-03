@@ -4,9 +4,9 @@
 #### 4
 #### 5 funnier text
 #### 6
-#### 7 more text 
+#### 7 more text
 #### 8
-#### 9
+#### 9 Github is really good
 #### 10
 #### 11
 #### 12
